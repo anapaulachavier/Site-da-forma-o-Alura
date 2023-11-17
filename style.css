@@ -1,9 +1,9 @@
 .cabecalho {
-    background-color:#5a0212;;
+    background-color:#5a0212;
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center
+    align-items: center;
     padding: 24px 0;
 }
 
