@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color:#51025a;;
+    background-color:#5a0212;;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -11,6 +11,8 @@
 .cabecalho - image{
     width: 20%;
 }
+
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
