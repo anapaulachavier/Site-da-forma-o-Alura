@@ -2,10 +2,13 @@
     background-color:#51025a;;
     color: white;
     display: flex;
+    justify-content: space-around;
+    align-items: center
+    padding: 24px 0;
 }
 
 
-.cabecalho image
+
 width: 20%
 
 
