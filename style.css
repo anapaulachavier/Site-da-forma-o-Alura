@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color:#5B0753;
+    background-color:#e679db;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -15,7 +15,7 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 24px 0;
 }
 
 .projeto-título{
@@ -36,6 +36,6 @@
 
 
 .rodape-imagem{
-    height: 60px;
+    height: 60px 0;
     padding: 12px 0;
 }
